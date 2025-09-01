@@ -1,4 +1,4 @@
-# Hi there, I'm [Thalee]! 👋
+# Hi there, I'm Thalee! 👋
 
 > A Passionate Developer & AI Enthusiast from Guangzhou
 
